@@ -1,0 +1,9 @@
+#My Emacs Setup
+
+##Install emacs
+
+Install emacs on a OS X machine using brew
+<shell>
+  ##Search for emacs versions present in brew
+  ##Make sure you 
+<shell>
