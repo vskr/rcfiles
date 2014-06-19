@@ -1,9 +1,14 @@
 #My Emacs Setup
 
-##Install emacs
+###Install emacs
 
-Install emacs on a OS X machine using brew
-<shell>
+
+```sh
+
+  Install emacs on a OS X machine using brew
+
   ##Search for emacs versions present in brew
-  ##Make sure you 
-<shell>
+  ##Make sure you install latest version
+  
+  brew install emacs
+```
