@@ -1,14 +1,36 @@
-#My Emacs Setup
+#Emacs as Python IDE
 
 ###Install emacs
 
 
 ```sh
 
-  Install emacs on a OS X machine using brew
-
   ##Search for emacs versions present in brew
   ##Make sure you install latest version
   
   brew install emacs
 ```
+Above step will install latest version of emacs from homebrew. Make sure you alias your `emacs` to latest version installed from previous step.
+
+
+###Autocomplete
+Install Jedi for autocomplete by follwing instructions [here](http://tkf.github.io/emacs-jedi/latest/#pyinstall)
+
+####TODO
+* Advanced jedi setup for a project. It should index symbols from all the project's files and its dependencies
+
+
+###Code Navigation
+#START HERE
+####Install ropemacs
+```sh
+  #Install hg a pre-requisite for ropemacs
+  
+
+```
+
+###Static Analysis
+
+
+
+###REPL
