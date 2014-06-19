@@ -21,13 +21,17 @@ Install Jedi for autocomplete by follwing instructions [here](http://tkf.github.
 
 
 ###Code Navigation
-#START HERE
+
 ####Install ropemacs
 ```sh
   #Install hg a pre-requisite for ropemacs
   
+  brew install hg
+  
+  M-x el-get-install RET ropemacs RET
 
 ```
+#START HERE
 
 ###Static Analysis
 
